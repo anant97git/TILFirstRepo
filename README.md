@@ -1,2 +1,2 @@
 # TILFirstRepo
-For training
+For training purpose
